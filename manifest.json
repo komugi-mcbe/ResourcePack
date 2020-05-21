@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "KomugiServer用",
+        "name": "KomugiServer",
+        "uuid": "146f9c60-3bed-422b-85e9-bfa53220e7b7",
+        "version": [1, 0, 0],
+        "min_engine_version": [ 1, 14, 0 ]
+    },
+    "modules": [
+        {
+            "description": "KomugiServer用",
+            "type": "resources",
+            "uuid": "c48a7f03-a08a-4dad-bdb6-4033c71ebc2e",
+            "version": [1, 0, 0]
+        }
+    ]
+}
