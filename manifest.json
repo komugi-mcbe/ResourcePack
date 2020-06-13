@@ -3,16 +3,16 @@
     "header": {
         "description": "KomugiServer用",
         "name": "KomugiServer",
-        "uuid": "146f9c60-3bed-422b-85e9-bfa53220e7b7",
-        "version": [1, 0, 0],
+        "uuid": "e41288f8-73e9-472a-b2f2-d9556b7a6dba",
+        "version": [1, 0, 6],
         "min_engine_version": [ 1, 14, 0 ]
     },
     "modules": [
         {
             "description": "KomugiServer用",
             "type": "resources",
-            "uuid": "c48a7f03-a08a-4dad-bdb6-4033c71ebc2e",
-            "version": [1, 0, 0]
+            "uuid": "09241768-e68d-4484-afe2-03c89f426b27",
+            "version": [1, 0, 6]
         }
     ]
 }
